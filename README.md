@@ -1,7 +1,7 @@
 # Трихачева Ангелина [![](https://img.shields.io/badge/-telegram-0088cc)](https://t.me/SuperKusya) [![](https://img.shields.io/badge/-codewars-%23952c1f)](https://www.codewars.com/users/SuperKusya) [![](https://img.shields.io/badge/resume-hh-red)](https://kazan.hh.ru/resume/0611b293ff07ae77230039ed1f31644f6c4d75)
 
 ### Стек технологий:
-  - HTML5, CSS3, SCSS/LESS, Bootstrap 4, Методология БЭМ
+  - HTML5, CSS3, SASS/SCSS, Bootstrap 4, Методология БЭМ
   - JavaScript
   - Git, Github
   - Gulp 4
@@ -29,26 +29,26 @@
 
 <tr>
 <td><a href="https://github.com/SuperKusya/RunSmart">RunSmart</a></td>
-<td>HTML5, CSS3, JS</td>
+<td>HTML5, CSS3, SCSS, JS, Gulp</td>
 <td align="center">Вёрстка</td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/SuperKusya/Uber">Uber</a></td>
-<td>HTML5, CSS3, JS</td>
+<td>HTML5, CSS3, SASS, JS, Gulp</td>
 <td align="center">Вёрстка</td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/SuperKusya/Blog">Blog</a></td>
-<td>HTML5, CSS3, JS</td>
+<td>HTML5, CSS3, SASS, JS, Gulp</td>
 <td align="center">Вёрстка</td>
 </tr>
 
 
 <tr>
 <td><a href="https://github.com/SuperKusya/Misocial">Misocial</a></td>
-<td>HTML5, CSS3, JS</td>
+<td>HTML5, CSS3, SCSS, JS, Gulp</td>
 <td align="center">Вёрстка</td>
 </tr>
 
@@ -60,6 +60,6 @@
 - JavaMentor (Web core + JS core)
 - Hexlet - «JS: Настройка окружения»
 - HTML Academy - Интерактивные курсы
-- Иван Петриченко "WEB-разработчик 2020"
+- Иван Петриченко "WEB-разработчик 2019"
 - Иван Петриченко "Посадка верстки и создание тем на CMS WordPress"
 
