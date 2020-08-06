@@ -21,6 +21,13 @@
 </tr>
 </thead>
 <tbody>
+ 
+<tr>
+<td><a href="https://github.com/SuperKusya/Event-Listing">Event-Listing</a></td>
+<td>HTML5, CSS3, JS</td>
+  <td align="center">Вёрстка, <a href='https://github.com/xsolla/xsolla-frontend-school-2020'>тестовое задание</a></td>
+</tr>
+ 
 <tr>
 <td><a href="https://github.com/SuperKusya/CPS-full">CPS</a></td>
 <td>HTML5, CSS3, JS, Webpack</td>
